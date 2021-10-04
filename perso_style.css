@@ -1,0 +1,26 @@
+body{
+	color: #1b05e6;
+	margin: 0;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 1.6em;
+}
+p{
+	color: black;
+}
+div{
+	margin-left: 20px;
+}
+td{
+	color: black;
+}
+label{
+	color: black;
+}
+hr{
+	height: 1px;
+	width: 50%;
+	border-style: none;
+	border-top-style:dotted;
+	border-color: black;
+	border-width: 3px; 
+}
